@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<head>
+  <meta http-equiv="refresh" content="0; URL='https://godoc.org/leb.io{{.URL.Path}}'">
+  <meta name="go-import" content="ancientlore.io/go-avltree git https://github.com/ancientlore/go-avltree">
+  <meta name="go-source" content="aicnetlore.io/go-avltree https://github.com/ancientlore/go-avltree https://github.com/ancientlore/go-avltree/tree/master{/dir} https://github.com/ancientlore/go-avltree/tree/master{/dir}/{file}#L{line}">
+</head>
+<body>
+  <a href="http://godoc.org/ancientlore.io/go-avltree">Found</a>.
+</body>
+</html>
