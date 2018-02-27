@@ -1,0 +1,5 @@
+# Site settings
+title: 'ancientlore.io'
+tagline: 'Michael D. Lore'
+baseurl: "/" 
+permalink:  "/:title"
