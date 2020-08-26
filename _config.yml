@@ -3,3 +3,13 @@ title: 'ancientlore.io'
 tagline: 'Michael D. Lore'
 baseurl: "/" 
 permalink:  "/:title"
+domain: ancientlore.io
+github_username: ancientlore
+
+defaults:
+  - scope:
+      path: "go-imports"
+    values:
+      layout: go-imports
+      permalink: /:basename
+      branch: master
