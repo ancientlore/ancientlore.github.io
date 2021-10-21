@@ -3,7 +3,7 @@ title: 'ancientlore.io'
 tagline: 'Michael D. Lore'
 baseurl: "/" 
 permalink:  "/:title"
-domain: ancientlore.io
+domain: www.ancientlore.app
 github_username: ancientlore
 
 defaults:
