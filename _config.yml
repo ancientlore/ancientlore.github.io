@@ -1,9 +1,9 @@
 # Site settings
-title: 'ancientlore.io'
+title: 'ancientlore'
 tagline: 'Michael D. Lore'
 baseurl: "/" 
 permalink:  "/:title"
-domain: www.ancientlore.app
+domain: www.mlore.dev
 github_username: ancientlore
 
 defaults:
